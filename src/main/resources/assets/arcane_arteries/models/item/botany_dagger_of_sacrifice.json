@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "arcane_arteries:items/botany_dagger_of_sacrifice"
+  }
+}

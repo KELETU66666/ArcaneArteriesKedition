@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "arcane_arteries",
+    "name": "Arcane Arteries Kedition",
+    "description": "An arcane upgrade for Blood Magic",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Keletu66666", "MaxIsH0t"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+    ]
+  }
+]

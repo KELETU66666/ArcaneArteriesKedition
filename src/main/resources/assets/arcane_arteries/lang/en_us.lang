@@ -1,0 +1,21 @@
+item.thaumic_slate.name=Thaumic Slate
+item.mana_slate.name=Mana Slate
+
+tooltip.botania.slate.desc=Infused stone inside of a Mana Pool
+tooltip.thaumcraft.slate.desc=Infused stone inside of a Crucible
+
+item.thaumic_sacrificial_dagger.name=Thaumic Sacrificial Dagger
+item.botany_sacrificial_dagger.name=Botany Sacrificial Dagger
+item.thaumic_dagger_of_sacrifice.name=Thaumic Dagger of Sacrifice
+item.botany_dagger_of_sacrifice.name=Botany Dagger of Sacrifice
+
+tile.thaumic_rune.name=Thaumic Rune
+tile.mana_rune.name=Mana Rune
+
+ftr.research.rift_feed.title=Feed the Rift
+ftr.research.rift_feed.text=[WIP]
+ftr.research.rift_feed.complete.text=[WIP]
+
+ftr.research.ethereal_bloom.title=Purifies the Taint
+ftr.research.ethereal_bloom.text=There are some scraps that mention a species of bloom. At that time when there were condensed nodes in the aura, there was a kind of malignant node that corrupted everything in the environment around it. When exposed to the sacred radiance of this bloom, it could purify all corrupted things. Let's see if I can recreate it.
+ftr.research.ethereal_bloom.complete.text=Well, it worked and the result was better than I imagined. This modern Ethereal Bloom, with its sacred and purest light, not only manages to cleanse the Flux present in the air, but also manages to quickly get rid of the taint around it. The only problem is that it could end up being ripped off the floor by liquids, so I should be careful with that.
